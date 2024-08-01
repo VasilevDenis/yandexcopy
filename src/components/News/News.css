@@ -1,0 +1,21 @@
+.news {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    gap: 10px;
+}
+.news-titles-date {
+    display: flex;
+    gap: 10px;
+}
+
+.news-titles {
+    display: flex;
+    gap: 10px;
+}
+
+.news-item {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+}

@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  min-width: 1200px;
+}
+
+.news-sidebar {
+  display: flex;
+  gap: 10px;
+}
+
+.morning-evening {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.bottom-row {
+  display: flex;
+  gap: 10px;
+}

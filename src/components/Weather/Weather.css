@@ -1,0 +1,21 @@
+.weather {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.weather-content {
+    display: flex;
+    gap: 10px;
+}
+
+.temperature {
+    font-size: 30px;
+}
+
+.links {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
